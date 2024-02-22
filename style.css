@@ -242,11 +242,12 @@ margin-top: 20px;
 }
 
 .horizontal {
-    display: flex; /* Change display property to flex */
+    display: flex; 
     flex-wrap: wrap;
     justify-content: space-between;
     width: 100%;
-    height: auto; /* Adjust width to fill the container */
+    
+    height: auto; 
 }
 
 .summer,
